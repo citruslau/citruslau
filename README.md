@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/skull-coffee-cup.png" alt="Skull-shaped coffee cup filled with coffee on a saucer" width="200" />
+</p> 
 <h2 align="center">Full-Stack &amp; Shopify Developer</h2>
 
 
@@ -42,8 +45,6 @@
   <a href="https://www.linkedin.com/in/fritz-latagan-508547276/">LinkedIn</a>
 </p>
 
-<!-- <p align="center">
-  <img src="assets/skull-coffee-cup.png" alt="Skull-shaped coffee cup filled with coffee on a saucer" width="200" />
-</p> -->
+
 
 
