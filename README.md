@@ -30,10 +30,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAILWAY-131415?style=for-the-badge&amp;logo=railway&amp;logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/RAILWAY-131415?style=for-the-badge&amp;logo=railway&amp;logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/FIGMA-A259FF?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
 </p>
 
