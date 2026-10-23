@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/skull-coffee-cup.png" alt="Skull-shaped coffee cup filled with coffee on a saucer" width="200" />
-</p>
-
 <h2 align="center">Full-Stack &amp; Shopify Developer</h2>
 
 
@@ -40,9 +36,13 @@
   <img src="https://img.shields.io/badge/FIGMA-A259FF?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
 </p>
 
-
 <p align="center">
   <a href="https://fritz-latagan.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/fritz-latagan-508547276/">LinkedIn</a>
 </p>
+
+<p align="center">
+  <img src="assets/skull-coffee-cup.png" alt="Skull-shaped coffee cup filled with coffee on a saucer" width="200" />
+</p>
+
 
