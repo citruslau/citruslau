@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/skull-coffee-cup.png" alt="Skull-shaped coffee cup filled with coffee on a saucer" width="200" />
 </p> 
-<h2 align="center">Full-Stack &amp; Shopify Developer</h2>
+<h2 align="center">Full Stack &amp; Shopify Developer</h2>
 
 
 <p align="center">
